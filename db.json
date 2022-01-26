@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "AJ2",
+      "image": "./images/fiddle-leaf-fig.jpg",
+      "price": "200",
+      "id": 9
+    },
+    {
+      "name": "aj 3",
+      "image": "./images/fiddle-leaf-fig.jpg",
+      "price": "300",
+      "id": 10
     }
   ]
 }
